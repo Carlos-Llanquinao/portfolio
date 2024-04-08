@@ -1,5 +1,6 @@
 # Unity Developer
-Soy un desarrollador de Unity con 3 años de experiencia, he desarrollado múltiples experiencias para distintos tipos de dispositivos según las necesidades de cada proyecto.
+Soy un desarrollador de Unity con 3 años de experiencia, he desarrollado múltiples experiencias para distintos dispositivos entre los cuales destaco la realidad virtual, esto me ha proporcionado una amplia experiencia en el manejo de soluciones y en la ejecución de las mismas para lograr el mejor resultado posible, en el menor tiempo posible.
+
 ## Educación
 Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNIACC (2019-2023)
   

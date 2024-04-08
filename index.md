@@ -34,8 +34,8 @@ Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNI
 
 ### Realidad Virtual
 #### Tomar objetos
-![Tomar objetos](/assets/img/200.gif)
-#### Manipulacion objetos
+![Tomar objetos](/assets/img/Tomar_objetos.gif)
+#### Manipulación de objetos
 ![Manipulación objetos](/assets/img/Manipular_objetos.gif)
 #### Posicionar objetos
 ![Posicionar Objetos](/assets/img/Posicionar_objetos.gif)

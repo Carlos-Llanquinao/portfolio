@@ -45,6 +45,9 @@ Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNI
 ![Interactuar con objetos](/assets/img/Interaccion_interfaces.gif)
 #### Interacción con muebles
 ![Interactuar con objetos](/assets/img/Interaccion_muebles.gif)
+#### Interacciones entre objetos
+![Interactuar con objetos](/assets/img/Interaccion_entre_objetos.gif)
+
 
 
 

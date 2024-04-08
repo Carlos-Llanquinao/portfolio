@@ -1,14 +1,11 @@
 
 # Unity Developer
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
+Soy un desarrollador de Unity con 3 años de experiencia, he desarrollado múltiples experiencias para distintos tipos de dispositivos según las necesidades de cada proyecto.
+## Educación
 Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNIACC (2019-2023)
   
 ## Experiencia laboral
 **Unity Developer @ Riolab (Julio 2023 - Noviembre 2023)**
-
 - Desarrollo de aplicaciones VR, Móviles y PC.
 - Creación de sistemas para consumir APIs con el objetivo de actualizar contenidos e interfaces.
 - Uso de GitHub, Plastic SCM y GitHub Desktop como controlador de versiones.

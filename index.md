@@ -38,7 +38,7 @@ Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNI
 #### Manipulación de objetos
 ![Manipulación objetos](/assets/img/Manipular_objetos.gif)
 #### Posicionar objetos
-![Posicionar Objetos](/assets/img/Posicionar_objetos.gif)
+![Posicionar Objetos](/assets/img/interaccion_objetos.gif)
 #### interactuar con objetos
 ![Interactuar con objetos](/assets/img/Manipular_objetos.gif)
 
@@ -50,7 +50,7 @@ Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNI
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 

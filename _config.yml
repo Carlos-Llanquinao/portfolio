@@ -2,5 +2,5 @@ title: Carlos Llanquinao
 logo: /assets/img/profile.png
 # description: _
 show_downloads: false 
-google_analytics:
+# google_analytics:
 theme: jekyll-theme-minimal

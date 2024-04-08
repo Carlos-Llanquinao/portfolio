@@ -1,6 +1,4 @@
----
-layout: default
----
+
 # Unity Developer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB

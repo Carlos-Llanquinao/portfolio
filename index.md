@@ -1,6 +1,8 @@
 
 # Unity Developer
-Soy un desarrollador de Unity con 3 años de experiencia, he desarrollado múltiples experiencias para distintos tipos de dispositivos según las necesidades de cada proyecto.
+Hola soy carlos, un programador con 3 años de experiencia desarrollando en Unity.
+Durante mi trayectoria, he publicado juegos en Google Play e itch.io los cuales podras ver en esta pagina, también he desarrollado proyectos multiplataformas según las necesidades de cada proyecto.
+
 ## Educación
 Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNIACC (2019-2023)
   
@@ -26,23 +28,11 @@ Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNI
 - Utilización de Sourcetree y Bitbucket como controlador de versiones en el desarrollo de videojuegos.
 - Creación de prototipos y mecánicas para videojuegos para representar ideas de clientes en múltiples plataformas (VR, Móvil, PC)
 
-
-### Realidad Virtual
-#### Tomar objetos
-![Tomar objetos](/assets/img/Tomar_objetos.gif)
-#### Posicionar objetos
-![Posicionar Objetos](/assets/img/Posicionar_objetos.gif)
-#### Manipulación de objetos
-![Manipulación objetos](/assets/img/Manipular_objetos.gif)
-#### Interacción con objetos
-![Interactuar con objetos](/assets/img/interaccion_objetos.gif)
-#### Interacción con interfaces
-![Interactuar con objetos](/assets/img/Interaccion_interfaces.gif)
-#### Interacción con muebles
-![Interactuar con objetos](/assets/img/Interaccion_muebles.gif)
-#### Interacciones entre objetos
-![Interacciones entre objetos](/assets/img/Interaccion_entre_objetos.gif)
-
+### Portafolio
+#### Golfing Cube
+![Golfing Cube](/assets/img/Golfing_Cube.gif)
+#### Cubic Jump!
+![Posicionar Objetos](/assets/img/Cubic_Jump.gif)
 
 
 

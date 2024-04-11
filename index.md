@@ -40,7 +40,5 @@ Ver en [Google Play](https://play.google.com/store/apps/details?id=com.ZariGames
 Ver en [Google Play](https://play.google.com/store/apps/details?id=com.LineFox.CubicJump&hl=es_CL&gl=US){:target="_blank"}
 
 También puedes ver mis habilidades con la realidad virtual [aquí](./vr.html).
-
 También puedes ver otros proyectos en Itch.io [aquí](https://kenkii.itch.io){:target="_blank"}.
-
 También puedes ver otros proyectos en Google Play [aquí](https://play.google.com/store/apps/developer?id=Insert+media&hl=es_CL&gl=US){:target="_blank"}.

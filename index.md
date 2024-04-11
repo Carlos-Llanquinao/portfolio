@@ -29,14 +29,13 @@ Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNI
 - Creación de prototipos y mecánicas para videojuegos para representar ideas de clientes en múltiples plataformas (VR, Móvil, PC)
 
 ### Portafolio
-#### Golfing Cube
+## Golfing Cube
 ![Golfing Cube](/assets/img/Golfing_Cube.gif)
-## Puedes probarlo en el siguiente enlace [Golfing Cube](https://play.google.com/store/apps/details?id=com.ZariGames.GolfingCube&hl=es_CL&gl=US){:target="_blank"}
+#### Puedes probarlo en el siguiente [enlace](https://play.google.com/store/apps/details?id=com.ZariGames.GolfingCube&hl=es_CL&gl=US){:target="_blank"}
 
 #### Cubic Jump!
 ![Cubic_Jump](/assets/img/Cubic_Jump.gif)
-## Puedes probarlo en el siguiente enlace
-[Cubic_Jump](https://play.google.com/store/apps/details?id=com.LineFox.CubicJump&hl=es_CL&gl=US){:target="_blank"}
+## Puedes probarlo en el siguiente [enlace](https://play.google.com/store/apps/details?id=com.LineFox.CubicJump&hl=es_CL&gl=US){:target="_blank"}
 
 También puedes ver mis habilidades con la realidad virtual aquí.
 [Link to another page](./another-page.html).

@@ -57,11 +57,11 @@ Ver en [Itch.io](https://kenkii.itch.io/ball-n-neons).
 
 
 ## Enlaces a proyectos
-También puedes ver mis habilidades con la realidad virtual [aquí](./vr.html).
+Puedes ver mis habilidades con la [realidad virtual](./vr.html).
 
-También puedes ver otros proyectos en Itch.io [aquí](https://kenkii.itch.io){:target="_blank"}.
+Puedes ver mis proyectos en [Itch.io](https://kenkii.itch.io){:target="_blank"}.
 
-También puedes ver otros proyectos en Google Play [aquí](https://play.google.com/store/apps/developer?id=Insert+media&hl=es_CL&gl=US){:target="_blank"}.
+Puedes ver mis proyectos en [Google Play](https://play.google.com/store/apps/developer?id=Insert+media&hl=es_CL&gl=US){:target="_blank"}.
 
 ## Contacto
 - Linkedin: [Carlos Llanquinao](https://www.linkedin.com/in/carlos-llanquinao-990a3a230/).

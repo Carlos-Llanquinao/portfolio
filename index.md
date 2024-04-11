@@ -47,7 +47,7 @@ Ver en [Google Play](https://play.google.com/store/apps/details?id=com.LineFox.C
 ## Ball N Neons (Android & Ios)
 ![Ball](/assets/img/ball.gif)
 
-[Aun no publicado]
+Ver en [Itch.io](https://kenkii.itch.io/ball-n-neons).
 
 
 ## Enlaces a proyectos

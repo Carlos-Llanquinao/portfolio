@@ -1,7 +1,7 @@
 
 # Unity Developer
 Hola soy carlos, un programador con 3 años de experiencia desarrollando en Unity.
-Durante mi trayectoria, he publicado juegos en Google Play e itch.io los cuales podras ver en esta pagina, también he desarrollado proyectos multiplataformas según las necesidades de cada proyecto.
+Durante mi trayectoria, he publicado juegos en (Google Play)[https://play.google.com/store/apps/developer?id=Insert+media&hl=es_CL&gl=US] e (itch.io)[https://kenkii.itch.io] los cuales podras ver en sus respectivas paginas, también he desarrollado proyectos multiplataformas según las necesidades de cada proyecto.
 
 ## Educación
 Comunicación digital, Especialidad en Diseño y Desarrollo de Videojuegos | UNIACC (2019-2023)

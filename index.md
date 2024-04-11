@@ -46,7 +46,7 @@ También puedes ver otros proyectos en Itch.io [aquí](https://kenkii.itch.io){:
 
 También puedes ver otros proyectos en Google Play [aquí](https://play.google.com/store/apps/developer?id=Insert+media&hl=es_CL&gl=US){:target="_blank"}.
 
-## **Contacto**
+**Contacto**
 -Email: carlos.llanquinao.r@gmail.com
 -Linkedin: [Carlos Llanquinao](https://www.linkedin.com/in/carlos-llanquinao-990a3a230/).
 -instagram: [Carlos_McLine](https://www.instagram.com/carlos_mcline/).

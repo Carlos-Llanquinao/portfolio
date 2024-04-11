@@ -46,18 +46,10 @@ También puedes ver otros proyectos en Itch.io [aquí](https://kenkii.itch.io){:
 
 También puedes ver otros proyectos en Google Play [aquí](https://play.google.com/store/apps/developer?id=Insert+media&hl=es_CL&gl=US){:target="_blank"}.
 
-## Experiencia laboral
-**Unity Developer @ Riolab (Julio 2023 - Noviembre 2023)**
-- Desarrollo de aplicaciones VR, Móviles y PC.
-- Creación de sistemas para consumir APIs con el objetivo de actualizar contenidos e interfaces.
-- Uso de GitHub, Plastic SCM y GitHub Desktop como controlador de versiones.
-- Desarrollo de plugins internos de la empresa para su utilización en múltiples proyectos.
-- Desarrollo y publicación de la aplicación AR RDx Currarehue en App Store y Google Play.
-  
-**Contacto**
--Email: carlos.llanquinao.r@gmail.com
--Linkedin: [Carlos Llanquinao](https://www.linkedin.com/in/carlos-llanquinao-990a3a230/).
--instagram: [Carlos_McLine](https://www.instagram.com/carlos_mcline/).
+## Contacto
+- Linkedin: [Carlos Llanquinao](https://www.linkedin.com/in/carlos-llanquinao-990a3a230/).
+- instagram: [Carlos_McLine](https://www.instagram.com/carlos_mcline/).
+- Email: carlos.llanquinao.r@gmail.com
 
 
 
